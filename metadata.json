@@ -1,0 +1,8 @@
+{
+  "name": "EduAI - Nền tảng học tập thông minh",
+  "description": "Một ứng dụng học tập tích hợp AI dành cho học sinh từ cấp 1 đến cấp 3, cung cấp trợ lý học tập thông minh, trình tạo câu đố tự động và tìm kiếm thông tin chính xác.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
